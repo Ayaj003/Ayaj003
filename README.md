@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Aya
+
+A passionate AI Engineer 🤖 and Frontend developer 👩‍💻
 
 <!--
 **Ayaj003/Ayaj003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
